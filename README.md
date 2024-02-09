@@ -17,10 +17,10 @@
 ### 🌟 Как связаться со мной:
 
 <div>
-    <a href='https://t.me/MikiIang_Miklang' target='_blank'>
+    <a href='https://t.me/vlad1slave1338' target='_blank'>
         <img src='https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67' width='40' height='40' alt='telegram'>
     </a>
-    <a href='https://e.mail.ru/cgi-bin/sentmsg?To=624655michael@mail.ru&from=otvet&afterReload=1' target='_blank'>
+    <a href='https://e.mail.ru/cgi-bin/sentmsg?To=vladislavsechenov@mail.ru&from=otvet&afterReload=1' target='_blank'>
         <img src='https://camo.githubusercontent.com/25cc3cb093a962d2574491fa4847c50bcedee751d89baafa96b8d0ee6a50fc0d/68747470733a2f2f706170696b2e70726f2f75706c6f6164732f706f7374732f323032322d30312f313634333632383339375f312d706170696b2d70726f2d702d706f636874612d6c6f676f7469702d312e706e67' width='40' height='40' alt='mail'>
     </a>
 </div>
