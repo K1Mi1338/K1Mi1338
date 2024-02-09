@@ -1,5 +1,5 @@
 <!-- Заголовок профиля -->
-### Привет 👋
+# Привет 👋
 
 <!--
 **K1Mi1338/K1Mi1338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 - 👋 Я K1Mi, начинающий дизайнер и программист.
 - 🎓 Поступил на программирование в конце 2023 года.
 - 📅 Начал изучать C# в начале 2024 года, немного прогрессируя.
-- 🌱 Сейчас изучаю C# и Python.
+- 🌱 Еще хочу изучить Python.
 - 🔭 В настоящее время в работаю над новеллой.
 - 🤝 Люблю работать командой и постоянно развиваться.
 - 📫 Связь: https://t.me/vlad1slave1338
@@ -28,21 +28,11 @@
 ___
 
 <!-- Навыки -->
-### 💻 Технологии:
+### 💻 Изучаю:
 
 <div>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' title='git' alt='git'     width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg'     title='javascript' alt='javascript' width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg' title='react' alt='react'     width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' title='html' alt='html'   width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' title='css' alt='css'   width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg' title='bootstrap' alt='bootstrap'   width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg' title='python'  alt='python' width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg' title='django' alt='django'    width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg' title='sqlite'  alt='sqlite' width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg' title='mySQL' alt='mySQL' width='40' height='40'>&nbsp;&nbsp;
-</div>
-
+    
 ___
 
 ### 🛠 Инструменты:
@@ -57,9 +47,9 @@ ___
 
 ### ⚙️ GitHub статискика
 <!-- Статистика -->
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=M1kilang&show_icons=true)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=K1Mi1338&show_icons=true)
 
 ### ⚙️ Codewars статискика
-[![Codewars](https://www.codewars.com/users/Mikilang/badges/large)](https://www.codewars.com/users/YOUR_USERNAME)
+[![Codewars](https://www.codewars.com/users/K1Mi1338/badges/large)](https://www.codewars.com/users/YOUR_USERNAME)
 
 ___
