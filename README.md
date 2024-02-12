@@ -34,13 +34,13 @@ ___
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' title='git' alt='git'     width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg' title='python'  alt='python' width='40' height='40'>&nbsp;&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' title='C#' alt='C#' width='40' height='40'>&nbsp;&nbsp;
-___
 
 ### 🛠 Инструменты:
 
 <div>
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg' title='vscode' alt='vscode' width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-plain.svg' title='photoshop' alt='photoshop' width='40' height='40'>&nbsp;&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg' title='visualstudio' alt='visualstudio' width='40' height='40'>&nbsp;&nbsp;
 </div>
 
 
